@@ -71,7 +71,7 @@ public class functions {
 			 }
 			 System.out.println();
 		 }
-		 System.out.println();
+		// System.out.println();
 	}
 	public static int[ ][ ] pascalTriangle(int n)
 	{
